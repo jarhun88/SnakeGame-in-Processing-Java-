@@ -51,7 +51,7 @@ class Snake {
   /**
   * Changes snake's direction
   **/
-  void changeDirection(int x, int y) {
+  void changeDirection(int xDirection, int yDirection) {
     // TODO (2): Finish Implementing this function
    
   }
